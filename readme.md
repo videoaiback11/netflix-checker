@@ -1,3 +1,9 @@
+## About:
+This Is A Netflix Account Checker
+
+## Hits:
+- Netflix Valid Accounts
+
 Please use 10 thread if api just 1
 if api update with many server u can use 1 api = 10
 2 api = 20
@@ -15,3 +21,8 @@ bad ip list proxy if error
 change configuration proxy in config.json
 
 Telegram : @jankeposu
+
+
+## Pictures:
+# Copy This Link And Paste To Url To See THe Pic
+https://prnt.sc/PMONwLioCvfV
