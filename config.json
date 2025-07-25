@@ -1,0 +1,8 @@
+{
+  "proxy": {
+    "ip": "ip / host server",
+    "port": "1337",
+    "username": "user",
+    "password": "pass"
+  }
+}
