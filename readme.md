@@ -1,8 +1,8 @@
 ## About:
-This Is A Netflix Account Checker
+This Is A Netflix Email Checker
 
 ## Hits:
-- Netflix Valid Accounts
+- Netflix Valid Email
 
 Please use 10 thread if api just 1<br>
 if api update with many server u can use 1 api = 10<br>
